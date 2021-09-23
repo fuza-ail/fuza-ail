@@ -6,7 +6,7 @@
 
 ## Contact
 📫 You can reach me on:
-- [linkedin] (https://www.linkedin.com/in/muhammad-fuzail-5720131a9/)
+- [linkedin](https://www.linkedin.com/in/muhammad-fuzail-5720131a9/)
 
 
 <!--
