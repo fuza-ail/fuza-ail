@@ -5,6 +5,9 @@
 ## Works
 
 ## Contact
+📫 You can reach me on:
+- [linkedin] (https://www.linkedin.com/in/muhammad-fuzail-5720131a9/)
+
 
 <!--
 **fuza-ail/fuza-ail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
