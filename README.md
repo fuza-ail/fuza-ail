@@ -1,11 +1,11 @@
 # Hi there 👋
 
-## Skills
+## Skills 🌱
 
-## Works
+## Works 👯
 
-## Contact
-📫 You can reach me on:
+## Contact 📫
+You can reach me on:
 - [linkedin](https://www.linkedin.com/in/muhammad-fuzail-5720131a9/)
 
 
