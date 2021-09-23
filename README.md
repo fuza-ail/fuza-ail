@@ -1,4 +1,10 @@
-### Hi there 👋
+# Hi there 👋
+
+## Skills
+
+## Works
+
+## Contact
 
 <!--
 **fuza-ail/fuza-ail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
