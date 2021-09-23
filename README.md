@@ -1,8 +1,8 @@
 # Hi there 👋
 
-## Skills 🔭
+## Skills 🌱
 
-## Works 👯
+## Works 🔭
 
 ## Contact 📫
 You can reach me on:
